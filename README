@@ -1,0 +1,16 @@
+== What this is
+
+A Cordova (Phonegap) plugin for the Bump Android API 3.0 (https://github.com/bumptech/bump-api-android). Use Bump (http://bu.mp/) within your Phonegap app to transfer data between clients, based on a physical Bump to pair two devices.
+
+== How to use
+
+* Get a Bump API key.
+* Get the Android API into your project: https://github.com/bumptech/bump-api-android.
+* Pop the Java and Javascript files into their respective spots in your project (sample folder hierarchy is shown in this repo).
+* Go!
+
+
+== License
+
+Released under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+http://creativecommons.org/licenses/by-nc-sa/3.0/
